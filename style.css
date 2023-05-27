@@ -1,0 +1,209 @@
+.navbar {
+    /* text-align: justify; */
+    font-size: 20px;
+    color: black;
+    position: relative;
+    margin-left:3px;
+    align-items: center;
+
+    /* background-color: antiquewhite; */
+    /* margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%; */
+    
+    padding: 2px;
+    /* background-color: aqua; */
+}
+#logo {
+    height: 50px;
+    width: 50px;
+
+}
+
+h1 {
+    color: black;
+}
+
+#content {
+    background-color: aquamarine;
+    font-size: 15px;
+    margin: 1px;
+    padding: 2px;
+    margin-top: 0%;
+}
+
+/* #img {
+    background-color: cornflowerblue;
+}  */
+#Courses {
+    background-color: rgb(110, 154, 237);
+    font-size: 20px;
+    padding: 2px;
+}
+
+.courses {
+    background-color: aquamarine;
+    font-size: 20px;
+    margin: 1px;
+    padding: 2px;
+}
+
+.course1 {
+    font-size: 15px;
+    font-family: sans-serif;
+    padding: 2px;
+}
+
+.course2 {
+    font-size: 15px;
+    font-family: serif;
+    padding: 2px;
+}
+
+.course3 {
+    font-size: 15px;
+    font-family: serif;
+    padding: 2px;
+}
+
+#about {
+    background-color: cyan;
+    font-size: 20px;
+    padding: 2px;
+}
+
+#learntech {
+    background-color: deepskyblue;
+    font-size: 20px;
+    margin: 0px;
+    padding: 2px;
+    align-items: center;
+}
+
+.h1lt {
+    /* font-size: 15px; */
+    font-family: serif;
+    padding: 2px;
+}
+
+.btn {
+    font-size: 20px;
+    font-family: fantasy;
+    color: crimson;
+    size: 20px;
+    padding: 2px;
+    border-radius: 5px;
+    align-content: center;
+    
+}
+
+.form {
+    font-size: 25px;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkmagenta;
+    padding: 2px;
+    background-color: aquamarine;
+    margin: 3px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    margin: 3px;
+}
+
+.head {
+    background-color: antiquewhite;
+}
+.course11 {
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 2px;
+    background-color: rgb(255, 105, 148);
+    margin: 3px;
+}
+
+.course21 {
+    font-size: 20px;
+    font-family: serif;
+    padding: 2px;
+    background-color: rgb(255, 105, 190);
+    margin: 3px;
+}
+
+.course31 {
+    font-size: 20px;
+    font-family: serif;
+    padding: 2px;
+    background-color: rgb(250, 80, 110);
+    margin: 2px;
+}
+#courses {
+    background-color: rgb(248, 92, 176);
+    font-size: 25px;
+    padding: 2px;
+    margin: 2px;
+}
+.learntechnow{
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 2px;
+    background-color: rgb(255, 170, 105);
+    margin: 3px;
+}
+.learntechpostcast{
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 2px;
+    background-color: rgba(255, 165, 105, 0.907);
+    margin: 5px; 
+}
+.learntechblog {
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 2px;
+    background-color:rgba(255, 197, 80, 0.938);
+    margin: 3px; 
+}
+h6{
+    font-size: 20px;
+
+}
+.monthly {
+    background-color: #ffd700;
+    font-size: 20px;
+    color: darkred;
+}
+.Annual {
+    background-color: aquamarine;
+        font-family: cursive;
+    color:indigo ;
+}
+.lifetime {
+    background-color:darkturquoise;
+    font-family: cursive;
+    color:brown;
+}
+.computersupport{
+    font-size: 20px;
+    background-color:lightcoral;
+    margin: 2px;
+    align-items: center;
+}
+.computersupport2 {
+    background-color: rgb(245, 195, 178);
+    font-family: cursive;
+    font-size: 20px;
+    margin: 2px;
+    align-items: center;
+}
+.computersupport3 {
+    background-color: darkcyan;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 2px;
+    align-items: center;
+}
